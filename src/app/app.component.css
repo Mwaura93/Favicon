@@ -1,0 +1,30 @@
+link[rel="icon"] {
+    height: 2;
+}
+
+div {
+    background-color: lightgreen;
+}
+
+span {
+    background-color: tomato;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse; /* Merges the borders */
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+    background-color: grey;
+}
+
+td {
+    background-color: blueviolet;
+}
